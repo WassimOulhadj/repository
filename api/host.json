@@ -12,7 +12,7 @@
         "enableDependencyTracking": false
     },
     "logLevels": {
-        "default": "Warning"
+        "default": "Trace"
     }
 }
 }
